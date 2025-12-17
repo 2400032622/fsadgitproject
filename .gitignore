@@ -1,3 +1,8 @@
- *.log
- *.env
- backup/
+# Ignore environment files
+*.env
+
+# Ignore log files
+*.log
+
+# Ignore backup folder
+backup/
